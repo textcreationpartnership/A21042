@@ -1,0 +1,532 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A caueat for Archippus A sermon preached at a visitation at White-Chappel Church in London, Septemb. 23. 1618. By Ier. Dyke minister of Gods word at Epping in Essex.</title>
+            <author>Dyke, Jeremiah, 1584-1639.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1619</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 58 KB of XML-encoded text transcribed from 25 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21042</idno>
+            <idno type="STC">STC 7411</idno>
+            <idno type="STC">ESTC S100112</idno>
+            <idno type="EEBO-CITATION">99835964</idno>
+            <idno type="PROQUEST">99835964</idno>
+            <idno type="VID">202</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21042)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 202)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1475-1640 ; 1096:02)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A caueat for Archippus A sermon preached at a visitation at White-Chappel Church in London, Septemb. 23. 1618. By Ier. Dyke minister of Gods word at Epping in Essex.</title>
+                  <author>Dyke, Jeremiah, 1584-1639.</author>
+               </titleStmt>
+               <extent>[4], 45, [3] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed [by Richard Field] for Robert Mylbourne, and are to be sold at his shop at the great south-doore of Pauls,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1619.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>On Colossians IV, 17.</note>
+                  <note>Printer's name from STC.</note>
+                  <note>The first leaf and the last leaf are blank.</note>
+                  <note>Also issued as part of: Two sermons.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>Kate Allen</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>Kate Allen</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:202:1" rendition="simple:additions"/>
+            <pb facs="tcp:202:1" rendition="simple:additions"/>
+            <p> A CAVEAT FOR ARCHIPPVS.</p>
+            <p>A Sermon preached at a Viſitation at White-Chappel Church in London, <hi>Septemb.</hi> 23. 1618.</p>
+            <p>By IER. DYKE Miniſter of Gods word <hi>at Epping in Eſſex.</hi>
+            </p>
+            <q>
+               <bibl>1. TIM. 4. 16.</bibl>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</p>
+            </q>
+            <p>Aug. de Paſt.</p>
+            <p>
+               <hi>
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Chriſtiani ſumus, vnde rationem reddemus <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> etiam Praepoſiti, vnde rationem redde<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.</hi>
+            </p>
+            <figure>
+               <figDesc>cross or crucifix</figDesc>
+            </figure>
+            <p>
+               <gap reason="illegible" resp="#MURP" extent="1 paragraph">
+                  <desc>〈1 paragraph〉</desc>
+               </gap>
+            </p>
+            <pb facs="tcp:202:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:202:2"/>
+            <epigraph>
+               <bibl>COL. 4. 17.</bibl>
+               <q>
+                  <hi>And ſay to</hi> Archippus, <hi>Take heede to the Miniſterie which thou haſt receiued of the Lord, that thou fulfill it.</hi>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">I</seg> Will not ſtand to diſpute what might be the occaſi<g ref="char:EOLhyphen"/>on of this errand to be done, and this <hi>Caueat</hi> to be giuen to <hi>Archippus.</hi> The common conceit is, that it was <hi>Archippus</hi> his remiſſeneſſe, and cold<g ref="char:EOLhyphen"/>neſſe in his miniſteriall labours. Happly a more fauourable and charitable conſtructi<g ref="char:EOLhyphen"/>on may be this, that it was <hi>Paules</hi> feare, and holy ielouſie, as knowing that the beſt haue their corruptions, and diſcouragements; and therefore ſtand in neede of quickening, a<g ref="char:EOLhyphen"/>wakening, and heartening admonition. VVhich feare of <hi>Pauls</hi> might be the greater by reaſon of the greatneſſe of the burden
+<pb n="2" facs="tcp:202:3"/> which lay vpon <hi>Archippus</hi> his ſhoulders For that burden which ere-whiles was diuided betweene him and <hi>Epaphras,</hi> and ſo the ea<g ref="char:EOLhyphen"/>ſier, was now become the heauier, by rea<g ref="char:EOLhyphen"/>ſon of <hi>Epaphras</hi> his abſence, if not impriſon<g ref="char:EOLhyphen"/>ment with <hi>Paul</hi> at <hi>Rome.</hi> Leſt therefore this doubled burden ſhould diſcourage and diſ<g ref="char:EOLhyphen"/>hearten, <note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hilem.</hi> 23.</note> and make him faint vnder the weight thereof, therefore would <hi>Paul</hi> haue him be thus called vpon. And ſo this aduice might be occaſioned rather by the <hi>Careful<g ref="char:EOLhyphen"/>neſſe</hi> of <hi>Paul,</hi> then the <hi>Careleſneſſe</hi> of <hi>Archippus.</hi> It being none other counſell then what be<g ref="char:EOLhyphen"/>fore he gaue to the <hi>Epheſian</hi> Elders, <hi>Acts</hi> 20. 18; which yet was not cauſed by their guilti<g ref="char:EOLhyphen"/>neſſe, but by his feare. But I wil not ſwimme againſt the ſtreame of Interpreters, I am content that the receiued coniecture ſhould obtaine.</p>
+            <p>VVell, whatſoeuer the occaſion was, ſure<g ref="char:EOLhyphen"/>ly the words ſuite well with this preſent oc<g ref="char:EOLhyphen"/>caſion: So many Archippuſſes being heere aſſembled, that is, called together, it cannot be vnſeaſonable to call for the heedfull ful<g ref="char:EOLhyphen"/>filling of that Miniſtration which wee haue
+<pb n="3" facs="tcp:202:3"/> receiued from the Lord. Onely, if I might haue bene mine owne chooſer, I could haue wiſhed the performance of this exerciſe to ſom one whoſe grauer yeres, grayer haires, and greater gifts might haue ſo vſhered and attended his good counſell, as that it might haue had roome and reſpect in your hearts, without all contradiction.</p>
+            <p>Yet notwithſtanding, I haue where with<g ref="char:EOLhyphen"/>all to hearten my ſelfe, not onely from this, that I ſpeake not in mine owne name, or vp<g ref="char:EOLhyphen"/>on mine owne head, but alſo from my pre<g ref="char:EOLhyphen"/>ſent Scripture. For if ſo be the <hi>Coloſsians</hi> might ſay thus much to <hi>Archippus,</hi> then how much more may one <hi>Archippus</hi> be bold to ſay ſo much to another, one Miniſter to his fellow brethren in the ſame miniſtery? Well would <hi>Archippus</hi> haue borne with this ſaying from <hi>Epaphras,</hi> or from <hi>Paul,</hi> that in all likelihood barewell with it from his <hi>Coloſsians.</hi>
+            </p>
+            <p>The words then briefly containe an <hi>Apo<g ref="char:EOLhyphen"/>ſtolicall Iniunction:</hi> In the which I conſider three things.</p>
+            <list>
+               <item>1. The perſons that are enioyned to ſay this.</item>
+               <pb n="4" facs="tcp:202:4"/>
+               <item> 2. The perſon to whom they are enioy<g ref="char:EOLhyphen"/>ned to ſay it.</item>
+               <item>3. The matter of the Iniunction, which is a <hi>Caueat, Take heede,</hi> &amp;c.</item>
+            </list>
+            <p>VVhich <hi>Caueat</hi> is,</p>
+            <list>
+               <item>Firſt, illuſtrated from the <hi>Obiect,</hi> what it is that he muſt take heede vnto. It is his <hi>Mi<g ref="char:EOLhyphen"/>nisterie,</hi> and the <hi>fulfilling</hi> of it.</item>
+               <item>Secondly, <hi>Inforced</hi> by a reaſon, <hi>Which thou haſt receiued from the Lord.</hi>
+               </item>
+            </list>
+            <p>For the firſt. The perſons enioyned to ſay this; <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: Say ye, ye men of <hi>Coloſſus,</hi> ſay ye this, do ye this errand to <hi>Archippus.</hi>
+            </p>
+            <p>But why muſt they ſay this? Had it not beene fitter for <hi>Paul</hi> himſelfe to haue ſaid it? Why ſayes not he, <hi>And I ſay vnto thee Archip<g ref="char:EOLhyphen"/>pus?</hi> Doth not the inſpection and correcti<g ref="char:EOLhyphen"/>on of miniſteriall aberrations better ſuite with an Apoſtles office and authoritie, then with the <hi>Coloſsians?</hi> And would not an admo<g ref="char:EOLhyphen"/>nition from an Apoſtle be with farre leſſe prouocation, and farre more profit? Would not that take a deeper impreſſion which came from a graue Apoſtle, then that which ſhould be ſpoken by a company of <hi>Coloſsi<g ref="char:EOLhyphen"/>ans?</hi>
+               <pb n="5" facs="tcp:202:4"/> Hardly ſometimes will a <hi>Coloſsian</hi> brook an admonition from <hi>Archippus,</hi> how then will <hi>Archippus</hi> from a <hi>Coloſsian?</hi> Well, but for all this, <hi>Say ye to Archippus.</hi>
+            </p>
+            <p>
+               <hi>Hereby our Apostleteaching,</hi>
+            </p>
+            <p n="1">1. People to warne their Paſtor of his duty. Many an <hi>Archippus</hi> is ſluggiſh, becauſe the <hi>Co<g ref="char:EOLhyphen"/>loſsians</hi> are ſilent. Therfore is it that <hi>Archippus</hi> ſayes ſo litle, becauſe they ſay nothing. Nay many are ſo farre from ſaying ought to <hi>Ar<g ref="char:EOLhyphen"/>chippus</hi> if he be wanting, that they are readi<g ref="char:EOLhyphen"/>er to ſoothe him vp in his negligence. At leaſt their ſilence, and not <hi>ſaying</hi> to him, is conſtrued as an approouement of, and a contentment with his idleneſſe. Should <hi>Archippus</hi> but wrong his people in taking but a little more then his due in temporals, how ſoone would people not onely be <hi>ſaying</hi> but be <hi>doing</hi> to <hi>Archippus?</hi> But let <hi>Archippus</hi> wrong, and wring them neuer ſo much, in the iniurious detention of their ſpirituall dues, a little ſaying ſerues the turne. People (commonly) hauing Schoole-boyes con<g ref="char:EOLhyphen"/>ſciences, they care not how little they haue for their money.</p>
+            <p n="2">
+               <pb n="6" facs="tcp:202:5"/> 2. Miniſters not to deſpiſe good counſell from their people. Good newes are good newes, though a Leper bring them to a King, 2. <hi>Kings</hi> 7. So is good counſell neuer the worſe for the giuers meanneſſe. Much loy may a Miniſter haue that he hath ſo inriched his flocke, that hee may be releeued out of their abundance.</p>
+            <p>If a Lay perſon coming with a Scripture be to be beleeued before a whole Councel, (as <hi>Whitakers</hi> quotes it out of <hi>Panormitan)</hi> the<g ref="char:cmbAbbrStroke">̄</g> ſurely are not priuate men to be negle<g ref="char:EOLhyphen"/>cted, much leſſe deſpiſed, ſpeaking nothing but reaſon and religion to their Miniſters.</p>
+            <p n="3">3. <hi>Say ye to Archippus,</hi> that he may haue nothing to ſay, of or againſt you. The com<g ref="char:EOLhyphen"/>mon apology of many vrged to fidelitie in their places, is: Their people are wondrous well contented with their ſhort demenſum: or their people are awke, vntoward, alike re<g ref="char:EOLhyphen"/>ſpecting paines and negligence; ſhould they be neuer ſo painefull, yet would it not by them one whit be reſpected, &amp;c. And there<g ref="char:EOLhyphen"/>fore they haue no heart to greater diligence. And ſurely true it is, that nothing more diſ<g ref="char:EOLhyphen"/>courageth
+<pb n="7" facs="tcp:202:5"/> miniſteriall fidelitie then peoples irreſpectiue regardleſneſſe to a mans pains. Therefore will <hi>Paul</hi> haue the <hi>Coloſsians</hi> them<g ref="char:EOLhyphen"/>ſelues ſay this to <hi>Archippus,</hi> that their deſires of his paines, might put the more heart and life into <hi>Archippus</hi> to take paines. If <hi>Dauid</hi> doe but thirſt after the waters of <hi>Bethlehem,</hi> how will it make his Worthies aduenture their deareſt bloud and life? They wil hazard all to quench his thirſt But alas, what heart hath a man to aduenture, and take paines for that water, which no man thirſts to drink? nay, for that water which it may be ſhall be ſpilt on the ground before his face?</p>
+            <p n="2">2. But how muſt they ſay this?</p>
+            <p n="1">1. <hi>To him,</hi> not behinde him. Too many complaine of their Miniſters faults, but did they euer admoniſh him? Did they euer <hi>ſay</hi> ought <hi>to him,</hi> that <hi>ſay</hi> thus much <hi>againſt him?</hi> Complaine to him that can and ſhould a<g ref="char:EOLhyphen"/>mend it; other complaints are waſte: <hi>Say to Archippus.</hi>
+            </p>
+            <p n="2">2. But yet, with all reuerence and reſpect to his office and perſon: <hi>Paul</hi> therefore lea<g ref="char:EOLhyphen"/>ueth it not to their diſcretion, but preſcribes
+<pb n="8" facs="tcp:202:6"/> a reuerent forme of exhortation. He giues no allowance here for foule mouthes to ſay what they liſt. They muſt <hi>ſay to,</hi> not raile vp<g ref="char:EOLhyphen"/>pon <hi>Archippus. An Elder must be exhorted as a father,</hi> 1. <hi>Tim.</hi> 5. 1. A father is to be honored by the commandement.</p>
+            <p>The perſon to whom they are enioyned <label type="milestone">
+                  <seg type="milestoneunit">Point </seg>2</label> to ſay this, <hi>To Archippus: Say to Archippus</hi>
+            </p>
+            <p>
+               <hi>Archippus</hi> it ſeemes then was affable, of a courteous ſweete nature, of an ingenuous and Chriſtian candour, free from a ſowre ſterne and ſtately carriage. How were the <hi>Coloſsians</hi> bleſt that they were thus happily prouided for? Many there are that indeed haue better nurture, but yet but alitle better nature then <hi>Nabal</hi> had (for pride and chur<g ref="char:EOLhyphen"/>liſhneſſe are alike enemies to ſocietie, and communion.) He was ſo churliſh, many are ſo proud, that they may not be ſpoken to. Should a man in the meekeſt &amp; moderateſt manner but ſay thus to ſome, as they muſt here ſay to <hi>Archippus;</hi> ſhould not that round and rough anſwer be returned them, Who made you a monitour? a teacher of your teacher? You teach me what I haue to do?
+<pb n="9" facs="tcp:202:6"/> Had <hi>Archippus</hi> beene of this ſpirit, <hi>Paul</hi> had done enough to ſet all <hi>Coloſſus</hi> on fire. Well fare his heart yet, that the meaneſt of his poore <hi>Coloſsians</hi> may not onelie ſpeake, but <hi>ſay</hi> to him. And as for this affected ſtate and ſternneſſe, how euer it may gaine alitle cap and knee-ſeruice, yet it loſes the inward re<g ref="char:EOLhyphen"/>ſpect of the heart, if at leaſt it breed not a ſe<g ref="char:EOLhyphen"/>cret ſcorne and diſdaine both of perſon and doctrine. <hi>Learne of me</hi> (ſaith our Sauiour) <hi>for I am meeke and lowely. Si Deus benignus, vt</hi> 
+               <note place="margin">Chryſoſtome.</note> 
+               <hi>quid ſacerdos eius austerus?</hi> Indeed it holdes no good proportion: A lowely Maiſter and a proud ſeruant.</p>
+            <p>The <hi>Matter</hi> of the <hi>Iniunction;</hi> A <hi>Caueat</hi> that <label type="milestone">
+                  <seg type="milestoneunit">Point </seg>3</label> muſt be giuen to <hi>Archippus,</hi> which is firſt <hi>illu<g ref="char:EOLhyphen"/>ſtrated</hi> from the <hi>Obiect:</hi> Take heed to <hi>thy Mi<g ref="char:EOLhyphen"/>nisterie that thou fulfill it.</hi>
+            </p>
+            <p>A point indeed that deſerues our greateſt heodfulneſſe and care. The Miniſterie is Gods worke, he loues not to haue his worke done by halfes: God loues no halfe Mini<g ref="char:EOLhyphen"/>ſters, hee would haue all his full Miniſters, that is, hee would haue them fulfill their Mi<g ref="char:EOLhyphen"/>niſterie. <hi>Paul</hi> wiſhes <hi>Archippus</hi> to be none
+<pb n="10" facs="tcp:202:7"/> other, then what himſelfe was, <hi>Coloſſ.</hi> 1. 25. <hi>Iam a Miniſter of the Goſpell, to fulfill the word of God.</hi> And <hi>Acts</hi> 20. 24, he preferres this one thing aboue his life: <hi>My life is not deare vnto me, ſo I may</hi> fulfill <hi>my courſe with ioy, and my mi<g ref="char:EOLhyphen"/>niſtration.</hi> Indeed it is not poſſible that hee ſhould fulfill his <hi>courſe</hi> with ioy, that fulfills not <hi>his miniſtration.</hi> And therefore fitly ioy<g ref="char:EOLhyphen"/>ned together by the Apoſtle. How ſhall God brooke that in vs his ſeruants, which we will not brooke in our owne? which of vs can en<g ref="char:EOLhyphen"/>dure our worke to be done by halfes?</p>
+            <p>But what is to be done then, and how may <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>
+               </label> a man ſo demeane himſelfe in his Miniſterie as that he may fulfill it?</p>
+            <p>The calling of the Miniſtery is not of that <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> narrow latitude, as that a full Treatie of the particulars therein ſhould come within the narrow compaſſe of one houres diſcourſe. I will therefore point at ſome maine particu<g ref="char:EOLhyphen"/>lars which are more ſpecially requiſite. The <hi>fulfilling</hi> of the Miniſterie then conſiſts: firſt, in <hi>fidelitie of Diſpenſation</hi> ſecondly, in <hi>ſincerity of Conuerſation:</hi> theſe two make a full and compleate Miniſter. VVhen a man is furni<g ref="char:EOLhyphen"/>ſhed,
+<pb n="11" facs="tcp:202:7"/> as was <hi>Aaron,</hi> in whoſe Pectorall were the <hi>Vrim</hi> and <hi>Thummim,</hi> the skirt of whoſe Roabe was hanged about with Bells and Pomegranates; when with the <hi>Vrim,</hi> the light of our doctrine, we ioyne the <hi>Thummim,</hi> the perfection of our liues; when with the ſound of doctrine, wee ioyne the Pomegra<g ref="char:EOLhyphen"/>nates and fruit of an holie life, we then may be ſaid to <hi>fulfill our Miniſterie.</hi> Of <hi>Ezra</hi> it is ſaid, <hi>Ezra</hi> 7. 6. that hee was a <hi>ready ſcribe.</hi> I may ſay o<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> him, that he was a perfect, a com<g ref="char:EOLhyphen"/>pleate ſcribe; for verſe 10. <hi>He ſet his heart to ſeeke the law of the Lord, to do it, and <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>each Iudgements and Statutes in Iſrael.</hi> To ſpeake of theſe in ſeuerall, which yet neuer muſt be ſe<g ref="char:EOLhyphen"/>uered.</p>
+            <p n="1">1. For <hi>fidelitie in diſpenſation</hi> of doctrine it is not poſſible without this to fulfill the Mi<g ref="char:EOLhyphen"/>niſterie.</p>
+            <p>
+               <hi>Acts</hi> 20. 2<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. <hi>That I may fulfill my miniſtration;</hi> but how? <hi>To teſtifie the Goſpel of the grace of God.</hi> Hee that will fulfill his Miniſterie, muſt labour to do that which <hi>Paul</hi> praied for in the behalfe of the <hi>Coloſsians, Coloſſ.</hi> 1. 9. that their People <hi>may be</hi> fulfilled <hi>with knowledge,</hi> when
+<pb n="12" facs="tcp:202:8"/> 
+               <hi>doctrine droppes</hi> not <hi>as the raine,</hi> nor <hi>ſpeech ſtilles not as the dew? Deut.</hi> 32. 2. Chriſt indeed was <hi>dumbe as a ſheep before the ſhearer, Eſay</hi> 53, but neuer as a ſhepheard among his ſheepe; for it was his cuſtome euerie Sabbath to preach the word in the Synagogues, <hi>Luke</hi> 4. 16.</p>
+            <p>But yet a man may preach, and diſpenſe the word, and yet in that part not fulfill his Miniſterie. How then may a man ſo preach and <hi>take heed</hi> therein, as that hee may <hi>fulfill</hi> his Miniſterie?</p>
+            <p>A Miniſter in <hi>diſpenſation</hi> of doctrine <hi>ful<g ref="char:EOLhyphen"/>fills</hi> his Miniſterie, when hee diſpenſeth the Truth
+<list>
+                  <item>1 <hi>Onely</hi> and <hi>wholly.</hi>
+                  </item>
+                  <item>2 <hi>Painfully</hi> and <hi>diligently.</hi>
+                  </item>
+                  <item>3 <hi>Plainly.</hi>
+                  </item>
+                  <item>4 <hi>Profitably.</hi>
+                  </item>
+                  <item>5 <hi>Constantly.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>When the word is thus diſpenſed, there is the Miniſterie <hi>fulfil<g ref="char:EOLhyphen"/>led</hi> in <hi>diſpenſation.</hi>
+            </p>
+            <div n="1" type="section">
+               <head>1. <hi>Onely</hi> and <hi>wholly.</hi>
+               </head>
+               <p>Falſe prophets <hi>fulfill</hi> none of Gods work, he ſets none on worke to tell, and teach lies.
+<pb n="13" facs="tcp:202:8"/> 
+                  <hi>Aarons</hi> Bells muſt be golden Bells, not copper ones, nor any other braſen mettall, but pure gold; Gods pure truth muſt be diſpen<g ref="char:EOLhyphen"/>ſed. And as the truth, ſo the whole truth. <hi>Paul</hi> teſtifies his deſire to <hi>fulfill</hi> his Miniſtery, <hi>Acts</hi> 20. 14. and therefore in verſe 27. he tells them, that he <hi>Kept backe nothing,</hi> but <hi>had ſhe<g ref="char:EOLhyphen"/>wed them all the counſell of God.</hi> And ſo he <hi>ful<g ref="char:EOLhyphen"/>filled</hi> his Miniſterie by making his Miniſterie <hi>fully</hi> knowne, as he ſpeaks to <hi>Timothy,</hi> 2. <hi>Tim.</hi> 4. 5. Then doth a man make his Miniſterie <hi>fully knowne,</hi> when in the courſe of his Mini<g ref="char:EOLhyphen"/>ſterie he makes the whole truth of God ful<g ref="char:EOLhyphen"/>ly knowne.</p>
+            </div>
+            <div n="2" type="section">
+               <head>2. <hi>Painfully</hi> and <hi>diligently.</hi>
+               </head>
+               <p>The Miniſterie is the worke of the Lord, and <hi>Curſed is euery one that doth the worke of the Lord negligently. Ierem.</hi> 48. 10. <hi>A neceſsitie is laid vpon me, and woe vnto me if I preach not the Goſpell,</hi> 1. <hi>Cor.</hi> 9. 16. <hi>Be diligent</hi> therefore <hi>to know the eſtate of thy flocke, and take heed to the heards, Pro.</hi> 27. 23. Take heed to the heards, that is, take heed to the fulfilling of thy Mi<g ref="char:EOLhyphen"/>niſterie. But how may that be done? Be di<g ref="char:EOLhyphen"/>ligent to know the eſtate of thy flockes, and
+<pb n="14" facs="tcp:202:9"/> to let thy flocke know the ſtate of the truth.</p>
+               <p>This is that which euidences our loue both to the <hi>ſhepheard,</hi> and the <hi>ſheep.</hi> To the <hi>ſhepheard.</hi> Therefore doth our Sauiour ſo vrge that vpon <hi>Peter, Iohn</hi> 21. <hi>Peter, loueſt thou me? feede my ſheepe: Loueſt thou me,</hi> &amp;c. Not onely that his threefold confeſſion, might be equiualent to his threefold deniall, but that his threefold loue might appeare by his threefold diligence in his Miniſtery, and to require diligence in <hi>feeding,</hi> as the moſt ſure euidence of <hi>louing.</hi> Who profeſſes not with <hi>Peter, Lord I loue thee?</hi> Make we good then our loue by our labour, <hi>Hebr.</hi> 6. <hi>the la<g ref="char:EOLhyphen"/>bour of your loue.</hi> Euerie mans <hi>loue</hi> is as his <hi>la<g ref="char:EOLhyphen"/>bour,</hi> litle and no <hi>labour</hi> argues the ſame mea<g ref="char:EOLhyphen"/>ſure of <hi>loue.</hi> Therefore Loue and Diligence are of one roote in Latin, becauſe <hi>loue</hi> is <hi>dili<g ref="char:EOLhyphen"/>gent.</hi>
+               </p>
+               <p>Surely me thinks we haue cauſe to bluſh, and to hang downe our heads for ſhame in the conſcience of our negligence, when we ſhall conſider, not onely <hi>Paules</hi> prayer, and teares night and day, <hi>Acts</hi> 20, but when we ſhall conſider <hi>Iaakobs</hi> diligence and pains in
+<pb n="15" facs="tcp:202:9"/> the attendance of <hi>Labans</hi> flockes: <hi>Geneſis</hi> 31. 40. <hi>In the day time I was conſumed with heate, in the night with froſt, and my ſleepe departed from mine mine eies.</hi> Alas, what compariſon be<g ref="char:EOLhyphen"/>tweene <hi>Christ</hi> and <hi>Laban?</hi> betweene a chur<g ref="char:EOLhyphen"/>liſh maiſter and a mercifull redeemer? What compariſon betweene the ſheepe of <hi>Chriſt</hi> and <hi>Laban?</hi> Ah vile ſhame then that <hi>Laban</hi> ſhould be better ſerued then <hi>Chriſt,</hi> and his ſheep better attended then <hi>Christs.</hi> Is <hi>Iaakob</hi> thus painefull and carefull in looking to <hi>La<g ref="char:EOLhyphen"/>bans</hi> ſheepe? How can wee then excuſe our <note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>; <hi>Chryſoſt ad Ro<g ref="char:EOLhyphen"/>man.</hi> 15. <hi>hom.</hi> 29</note> ſupine negligence and groſſe ſluggiſhneſſe, to whom the care and cure of reaſonable ſoules is committed? If what <hi>Iaakob</hi> hath done for <hi>Labans</hi> ſheepe moue vs not, pleaſe we turne our eies vpon the Great ſhepheard himſelfe <hi>Chriſt Ieſus,</hi> and ſee what he hath done for his ſheep? Behold him not onely in the Temple daily, and in the Synagogues teaching euery Sabbath; but behold him in the Garden, ſweating droppes of bloud, and on the Croſſe ſhedding his heart bloud for theſe ſheepe. Ah inſufferable ſloath, and ingratitude both, that we ſhould make ſo
+<pb n="16" facs="tcp:202:10"/> dainty to ſhed alittle ſweate in loue to him, who in loue to vs ſhed not ſweat, but ſweat groanes of bloud. Had he beene ſo dainty of his bloud, as a number are of their ſweat, poore ſheepe, poore flockes, what had be<g ref="char:EOLhyphen"/>come of them?</p>
+               <p>As to the <hi>Shepheard,</hi> ſo it no leſſe euiden<g ref="char:EOLhyphen"/>ceth our loue to the <hi>Sheep.</hi> They may plead, <hi>Peter, loueſt thou vs? feede vs thy ſheepe.</hi> But vnto many a Paſtour may the flocke ſpeake as <hi>Dalilah</hi> to <hi>Sampſon; How canſt thou ſay thou loueſt me, when thy heart is not with me?</hi> How is thy heart with me, when neither thy paines nor thy perſon is with me, <hi>but yee your ſelues ſet others to take the charge of my Sanctuarie, E<g ref="char:EOLhyphen"/>zek.</hi> 44. 8. May not that be ſpoken innocent<g ref="char:EOLhyphen"/>ly to many which <hi>Eliab</hi> ſpake churliſhly to <hi>Dauid?</hi> 1. <hi>Sam.</hi> 17. 28. <hi>With whom haſt thou left theſe few ſheepe in the wilderneſſe? I know thy pride, and the naughtineſſe of thine heart, that thou art come downe to ſeethe battaile.</hi> So to many Miniſters, <hi>Where be thoſe Sheepe? &amp;c.</hi> It may be they are wandering, if not ſtaruing in the wilderneſſe, while the Shepheard in the naughtineſſe of his heart is gone vp to ſee,
+<pb n="17" facs="tcp:202:10"/> and to liue in the City, and vnder the co<g ref="char:EOLhyphen"/>lour of a City Lecture, neglects his countrey paſtorall charge. <hi>A righteous man is mercifull to his beast.</hi> I will not ſay, what a beaſt then, but what an vnrighteous man is hee that is not mercifull to his poore flocke, to thoſe poor ſoules committed to his charge? Mee thinkes it was an heauy caſe, and well worth the lamenting which we find, <hi>Lament.</hi> 4. 4. <hi>The little ones asked bread, and no man brake it to them:</hi> Indeede it is not lawfull to <hi>caſt the childrens bread vnto dogges:</hi> but what do they better, who though they giue it not to dogges, yet giue it not to the children, are they better then dogges in the maunger?</p>
+               <p>Were thoſe compaſſionate bowells in vs, and that loue to our flocks, which ſhould make vs, with the Apoſtle, to deale our owne ſoules to them, would we then hunch at a li<g ref="char:EOLhyphen"/>tle bodily paines? What dreame we of eaſe, pleaſure, delicacie? Are theſe the things we propound to our ſelues in this holie ſeruice? Thou that art thus ſparing of thy ſweat, what wouldſt thou do if Chriſt ſhould call for thy bloud for his flocks ſake? for ſo hath <hi>Augu<g ref="char:EOLhyphen"/>ſline</hi>
+                  <pb n="18" facs="tcp:202:11"/> well noted, that immediatly vpon the <note place="margin">
+                     <hi>Tractat. in Io<g ref="char:EOLhyphen"/>ha<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> 10.</note> threefold iniunction of feeding, our Sauiour tells him of his martyrdome; thereby teach<g ref="char:EOLhyphen"/>ing <hi>Peter,</hi> that he muſt feede his people, not onelie by preaching of the Goſpell, but by the ſhedding of his bloud. Now wee that dreame of eaſe and delicacie, &amp;c. what if Chriſt ſhould call vs to fulfill our teſtimonie by the ſheding of our bloud? ſurely, ill would he ſhedde his bloud for him, that is ſo loath to ſhedde alittle ſweat for him. How would he go cheerfully to a ſtake for him, that goes ſo like a Beare to the ſtake when he goes to the Pulpit for him? He would ill abide fry<g ref="char:EOLhyphen"/>ing, that ſo ill abides ſweating. He would ill abide the pains of burning, that ſo ill abides the paines of preaching.</p>
+               <p>How are the Fathers magnified among vs, and iuſtly, and yet in the meane time this their practiſe of frequent, and diligent prea<g ref="char:EOLhyphen"/>ching vilified by vs? Had they held their peo<g ref="char:EOLhyphen"/>ple to a monthly ſtint, &amp; the poore pittance of a quarterly allowance, neuer had their works growne to ſo faire volumes, nor their names to ſo great renowne. <hi>Chryſoſtomes</hi> 
+                  <note n="*" place="margin">Yeſterday.</note> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.
+<pb n="19" facs="tcp:202:11"/> and <hi>Bernards</hi> 
+                  <note n="*" place="margin">
+                     <gap reason="illegible" resp="#MURP" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </note> 
+                  <hi>Cras,</hi> which they haue in ſo many of their Sermons, argue, if not a daily, yet a diligent, &amp; a frequent preaching; Why ſhould not this worke of the Fathers be in equall grace with the reſt of their workes with vs? How is it that we grace them, and diſgrace their practiſe? It is true, it is labo<g ref="char:EOLhyphen"/>rious and painfull thus to attend the Mini<g ref="char:EOLhyphen"/>ſterie: But, <hi>the labour of your loue,</hi> ſaith the Apoſtle, <hi>Hebr.</hi> 6. VVhere there is this <hi>labour of loue,</hi> it will make vs <hi>loue the labour:</hi> loue will make the burden light. <hi>Nullo enim modo one<g ref="char:EOLhyphen"/>roſi</hi> 
+                  <note place="margin">Auguſt. de <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>on<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> vid<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>it.</note> 
+                  <hi>ſunt labores amantium, ſed etiam ipſi dele<g ref="char:EOLhyphen"/>ctant, ſicut venantium, piſcantium, &amp;c. Nam in eo quod amatur, aut non laboratur, aut &amp; labor amatur; &amp; vide quàm pudendum &amp; dolendum ſit, fi delectat labor vt fera capiatur;</hi> I will make bold a little to alter his words: <hi>Et non delectat labor vt anima capiatur.</hi>
+               </p>
+               <p>Doth not the Scripture make the Mini<g ref="char:EOLhyphen"/>ſterie a calling of that paines, weight, and im<g ref="char:EOLhyphen"/>portance, as that Saint <hi>Pauls</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> would make a man dread the entrance? Now if ſo ſlighty &amp; eaſie a performance will diſcharge it, as many put it off withall, who then may
+<pb n="20" facs="tcp:202:12"/> not eaſily be ſufficient for theſe things: who may not ſoone be ſufficient to reade pray<g ref="char:EOLhyphen"/>ers, and the Church-ſeruice, and once in a Moone to beſtow a mornings bleſſing vpon his people? If this be all, how eaſily may the Miniſterie be fulfilled? what need ſuch a ſo<g ref="char:EOLhyphen"/>lemne charge to be giuen to <hi>Archippus?</hi>
+               </p>
+               <p>If then we would <hi>fulfill</hi> our Miniſterie, we ſhould labour to haue that fulfilled of our Sabbaths which <hi>Origen</hi> ſpeakes of the Sab<g ref="char:EOLhyphen"/>baths of his times: <hi>In noſtro die dominico ſem<g ref="char:EOLhyphen"/>per pluit Deus Manna de coelo.</hi> Indeed the lewes Manna neuer fell on their Sabbath. What Manna ſoeuer fall on the weeke day, neuer ſhould the Sabbath paſſe without theſe <hi>Manna-</hi>ſhoures; euery Sabbath ſhould haue the firſt and the latter raine. Giue a portion of this <hi>Manna</hi> to ſeuen and to eight. And in the <hi>morning</hi> ſowe thy ſeed, and in the <hi>euening,</hi> let not thy hand reſt, <hi>Eccl.</hi> 11. 6.</p>
+               <p>
+                  <hi>Why ſtand ye heere idle all the day long? Matth.</hi> 20. 6. <hi>Heere,</hi> and <hi>all</hi> the <hi>day</hi> long. <hi>Heere,</hi> where? In the market place, where they could pleade, <hi>Nemo nos conduxit.</hi> Is it blame-wor<g ref="char:EOLhyphen"/>thie to be idle in the <hi>market place,</hi> were none
+<pb n="21" facs="tcp:202:12"/> had hired them? VVhat is it then to be idle in the <hi>Vineyard,</hi> where both hired, and paied wages? If a ſin to be idle in the <hi>market place all the day long,</hi> how much more to be idle all the <hi>day long,</hi> all the <hi>Sabbath day</hi> long in the Vineyard?</p>
+               <p>Farre be it from vs aboue all others, to eate the <hi>bread of Idleneſſe;</hi> Vpon none more then Miniſters muſt that be verified, <hi>In the ſweate of thy browes ſhalt thou eate thy bread.</hi> In the ſweate of their <hi>browes,</hi> and their <hi>braines</hi> too muſt they eate their bread. But certainely many do ſo idlely and negligently liue in the miniſtery, that they may very wel do as that prieſt did of whom the <hi>Waldenſes</hi> make men<g ref="char:EOLhyphen"/>tion <note place="margin">Ex Vſsier. de Chr. eccleſ. ſtat.</note> in an Apologie of theirs, <hi>Qui ex ſacer<g ref="char:EOLhyphen"/>dote factus eſt agricola;</hi> and his reaſon was, be<g ref="char:EOLhyphen"/>cauſe he found it written, <hi>In the ſweate of thy browes ſhalt thou eate thy bread.</hi> Had he ſo di<g ref="char:EOLhyphen"/>ligently diſcharged his calling as he ought, hee neuer ſhould haue needed to haue tur<g ref="char:EOLhyphen"/>ned husbandman, to haue found ſweat, and ſawce to his bread. But as happely he, ſo a number there are, that liue with ſuch drie browes in the Miniſtery, that drie bread in
+<pb n="22" facs="tcp:202:13"/> another calling would yeelde them more comfort and content, then all their fulneſſe in the Miniſterie, becauſe they make no conſcience to <hi>fulfill</hi> their Miniſtery.</p>
+            </div>
+            <div n="3" type="section">
+               <head>3. <hi>Plainely.</hi>
+               </head>
+               <p>As the word muſt be diſpenſed frequent<g ref="char:EOLhyphen"/>ly and diligently with reſpect vnto Peoples <hi>Neceſsities,</hi> ſo alſo <hi>Plainely</hi> with reſpect vnto peoples <hi>Capacities;</hi> ſo as our plaine people may be able to vnderſtand vs for matter, and maner of deliuerie. Thus did our Sa<g ref="char:EOLhyphen"/>uiour teach the people, not as he was able to ſpeake, but as <hi>they were able to heare, Marke</hi> 4. 33. and <hi>Iohn</hi> 16. 12. <hi>as they could heare.</hi> So the Paſtours after <hi>Gods owne heart ſhould feede with knowledge and vnderſtanding, Ier.</hi> 3. How with knowledge vnleſſe with vnderſtanding? &amp; how with vnderſtanding vnles they could be vnderſtood? Heere commonly a double errour is committed.</p>
+               <p n="1">1. Some affect ſuch craggie ſcholaſticall diſquiſitions, as are fitter for the Chaire then for the Pulpit, as not coming within the ſhort and ſhallow reach of a popular capacitie.</p>
+               <p n="2">2. Others, though their matter be lowe
+<pb n="23" facs="tcp:202:13"/> enough, yet affect ſuch a ſoaring ſublimitie of phraſe, &amp; ſuch a <hi>Roman-Engliſh,</hi> as plaine Engliſh men cannot vnderſtand. <hi>Except yee vtter words which haue ſignification, how ſhall it be vnderſtood what is ſpoken? for ye ſhall ſpeake in the ayre,</hi> 1. <hi>Cor.</hi> 14. 9. And 19, <hi>I had rather in the Church to ſpeake fiue words with mine vnder<g ref="char:EOLhyphen"/>ſtanding, that I might alſo inſtruct others, then tenne thouſand words in a ſtrange tongue.</hi> Our language is now growne ſo learned, that a man may <hi>Clerum</hi> in Engliſh, and may ſo ſpeake his owne language, that he may be a barbarian to the men of his own language. It were good therefore that Miniſters would all follow that good counſel that <hi>Auſtin</hi> took from ſome learned men in his time, who ha<g ref="char:EOLhyphen"/>uing read ouer his Bookes againſt the <hi>Mani<g ref="char:EOLhyphen"/>chees,</hi> 
+                  <note place="margin">Beneuolentiſsime me monuerunt, vt communem loquendi ſermo<g ref="char:EOLhyphen"/>nem non deſ<gap reason="illegible" resp="#MURP" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. H<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nc enim ſermon<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m vſita<g ref="char:EOLhyphen"/>tum &amp; ſimplice<g ref="char:cmbAbbrStroke">̄</g> etiam d<gap reason="illegible" resp="#MURP" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> in<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>ligunt, illum au<g ref="char:EOLhyphen"/>tem ind<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cti non in<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>lligunt. De G<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n <gap reason="illegible" resp="#MURP" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>. Ma<g ref="char:EOLhyphen"/>nich.</note> and perceiuing them to be written in ſo learned a phraſe, as the common people could not vnderſtand; <hi>They kindly</hi> (ſaith he) <hi>admoniſhed me, that I would not forſake the com<g ref="char:EOLhyphen"/>mon and ordinarie kinde of ſpeech.</hi> And he giues a reaſon why he likes their counſel well. <hi>For the common and vſuall phraſe of ſpeech learned men vnderſtand, but the other vnlearned men</hi>
+                  <pb n="24" facs="tcp:202:14"/> 
+                  <hi>vnderſtand not.</hi> And yet a man may take farre more libertie in writing then in preaching.</p>
+               <p>Therefore it was that elſe-where he choſe rather to ſpeake barbarouſly then finely, and to vſe the barbarous word <hi>oſſum,</hi> rather then <note place="margin">
+                     <hi>Habeo in abſcon<g ref="char:EOLhyphen"/>dito quo <gap reason="illegible" resp="#MURP" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>m oſſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>m. Sic <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ni<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>. p<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>t<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>us loquantur. Mel<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>us eſt vt<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>re p<gap reason="illegible" resp="#MURP" extent="5 letters">
+                           <desc>•••••</desc>
+                        </gap>dant nos G<gap reason="illegible" resp="#MURP" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>mma<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ici, <gap reason="illegible" resp="#MURP" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> i<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>tel<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#MURP" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>ant populi. in p<gap reason="illegible" resp="#MURP" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>l</hi> 138. <hi>
+                        <gap reason="illegible" resp="#MURP" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>. Sect.</hi> 12.</note> the word <hi>Os,</hi> becauſe he deſired his peoples <hi>profit</hi> aboue his owne <hi>credite.</hi> He allowes <hi>Os</hi> in the Text, and ſo reades it; but in his Ex<g ref="char:EOLhyphen"/>poſition vſeth <hi>oſſum,</hi> as the more intelligible word. His intention was not Rhemiſh, and Ieſuiticall to darken the Text with abſolute barbariſmes, but to helpe their vnderſtan<g ref="char:EOLhyphen"/>dings with a familiar and plain, though not ſo grammaticall a word.</p>
+               <p>Miniſters muſt be Nurces, 1. <hi>Theſſ.</hi> 2. Nur<g ref="char:EOLhyphen"/>ces are not aſhamed, nay they delight in it, to condeſcend to the balbutient infancie of their nurcelings. Euen in this fence ſhould we <hi>become all vnto all,</hi> Barbarians vnto Bar<g ref="char:EOLhyphen"/>barians. Indeed when a man is not to ſpeake to Barbarians, but to learned and intelligent Auditors, I would not then debarre him the libertie of his liberall education. But cer<g ref="char:EOLhyphen"/>tainly, when the Iewes ſhall heare <hi>Paul, Acts</hi> 22. 2, to ſpeake in the Hebrew tongue, they
+<pb n="25" facs="tcp:202:14"/> will both keepe the more ſilence, and giue the better audience. It was in iudgement that Chriſt taught the Phariſes in Parables. What difference betweene a darke conuey<g ref="char:EOLhyphen"/>ance, and a darke phraſe? So then preach as that wee may rather make our people ſchol<g ref="char:EOLhyphen"/>lers, then ſhew our ſelues ſchollers to our people.</p>
+            </div>
+            <div n="4" type="section">
+               <head>4. <hi>Profitably.</hi>
+               </head>
+               <p>
+                  <hi>Paul,</hi> in the ſame place where he teſtifies his deſire to <hi>fulfill his Ministerie,</hi> inſtanceth at the firſt in this particular, <hi>Acts</hi> 20. 20. <hi>I haue kept backe nothing that was profitable.</hi> Therefore the Paſtours after Gods owne heart, feede not onlie with <hi>vnderstanding,</hi> but with <hi>know<g ref="char:EOLhyphen"/>ledge.</hi> 
+                  <note place="margin">
+                     <hi>Ierem</hi> 3 15.</note> Many may be vnderſtood, but what knowledge or profit can be gathered from them? To feed with vnderſtanding onelie, without knowledge, is to feed with an emp<g ref="char:EOLhyphen"/>tie ſpoone. So <hi>Luke</hi> 4. 22. They wondered at <hi>the gracious words</hi> that proceeded out of Chriſts mouth; not at his cloquent, witty, conceited, picked &amp; affected quaint termes, but at his <hi>gracious,</hi> ſanctified, ſauoury, ſub<g ref="char:EOLhyphen"/>ſtantiall ſoliditie. As for that other froath,
+<pb n="26" facs="tcp:202:15"/> neyther did our Sauiour affect it, neyther would it haue ſo affected the people as to haue made them aſtonied.</p>
+               <p>The Conuiction of the Conſcience, the information of the Vnderſtanding, the re<g ref="char:EOLhyphen"/>ſolution of the Iudgement, the gaining of the Affections, the redreſſe of the Life; theſe ſhould be our aymes in diſpenſing of the Word. Now for theſe trickes and cranckes, this Grammaticall and Rhetoricall deſcant, theſe ends of gold and ſiluer, what help they to this buſineſſe? See what it is that a Mini<g ref="char:EOLhyphen"/>ſter ſhould aime at, 1. <hi>Corint.</hi> 14. 24. 25. <hi>If all propheſie, and one comes in that beleeues not, the ſecrets of his heart are made manifest: Hee will fall downe and ſay plainly, that God is in you in<g ref="char:EOLhyphen"/>deed.</hi> At this ſhould Miniſters aime, to diſ<g ref="char:EOLhyphen"/>penſe the word in that power, and euidence of Gods Spirit, that mens conſciences may (at leaſt) be conuinced, that our Miniſtery is of God. But few aime at this. At this they aime rather, that it may be ſaid; <hi>A fine wit</hi> is in them, an <hi>eloquent tongue</hi> is in them (things indeed not to be diſpiſed;) but in the meane time regard not that it may be ſaid of them,
+<pb n="27" facs="tcp:202:15"/> 
+                  <hi>God is in them;</hi> ſubſtance, and ſauourie ſolidi<g ref="char:EOLhyphen"/>tie is in them, 1. <hi>Corint.</hi> 4. 19. <hi>I will come to you ſhortly, and will know, not the ſpeech of them which are puffed vp,</hi> but their power; <hi>For the Kingdome of God is not in word,</hi> (no nor in words) <hi>but in power.</hi> Now alas, what power haue ſuch <hi>Corinthian</hi> flaſhes? What power haue ſuch <hi>Corinthian</hi> floriſhes? what power hath ſuch paper-ſhot to beate downe the ſtrong holdes of Sathan? They were not Trumpets of gold or ſiluer, but of plaine Rammes hornes that layd flat the high walls of <hi>Hierico.</hi> Labor ſo to blow the trumpet of the Miniſterie, that we may haue the ſpirit blow with it. <hi>The ſpirit bloweth where it listeth.</hi> It ſeldom or not at all liſts to blow in a pain<g ref="char:EOLhyphen"/>ted pipe. Farre be from vs that humour of <hi>Cookes,</hi> who ſeeke more for credit in making of puffe-paſte, and kicke-ſhawes, then from dreſſing wholſome ſauourie food. When a man hath beſtowed his beſt paines in that kinde, that may be ſaid of him, which <hi>Au<g ref="char:EOLhyphen"/>ſtin</hi> 
+                  <note place="margin">
+                     <hi>Confeſſ.</hi> 1. 14.</note> ſaith of <hi>Homer,</hi> that he was <hi>dulciſsime va<g ref="char:EOLhyphen"/>nus.</hi> Though it be ſweet and pleaſing to the eare, yet it is but <hi>ſweet vanitie.</hi> VVhat is the
+<pb n="28" facs="tcp:202:16"/> life or conſcience ere the holier for theſe knackes? Giue me leaue to cloſe this point with the two former, with that ſauory coun<g ref="char:EOLhyphen"/>ſel of that reuere<g ref="char:cmbAbbrStroke">̄</g>d father B. <hi>Babington</hi> in <hi>Leu.</hi> 7. <q rend="margQuotes">
+                     <hi>Are you a Miniſter, called of God to leauen his people with good leauen? Looke how ye do it, and be painfull; faithfulneſſe will be crowned, when ſlothfulneſſe wil be condemned, and will condemne you; And ſubmit your ſelfe to the profit of your people, not hunting after your owne glorie, that you are thus and thus, and ſo learned, eloquent, profound and ſo foorth. If your people profit not, becauſe you flie too high a pitch for them, and ſcorne to lay a foundation of the Catechiſme a<g ref="char:EOLhyphen"/>mongst them, you will be found an vnprofitable ſeruant at the Reckoning day; one that hath gai<g ref="char:EOLhyphen"/>ned nothing to his Lord, but hath hid his talent in the fowle napkin of fruitleſſe matter, and idle figures of affected ſpeech.</hi> 
+                  </q> Spoken like a Biſhop, ſpoken like a Father.</p>
+            </div>
+            <div n="5" type="section">
+               <head>5. <hi>Constantly.</hi>
+               </head>
+               <p>This crownes all the reſt. He fulfilles not his race, who hauing an hundred miles to runne, ſits downe at ninety nine: He fulfills not his Miniſterie, that giueth it ouer before
+<pb n="29" facs="tcp:202:16"/> his daies are <hi>fulfilled.</hi> Though all the former be done, yet if in this we faile, our Miniſte<g ref="char:EOLhyphen"/>rie is <hi>vnfulfilled.</hi> Therefore <hi>Paul</hi> ioynes the <hi>fulfilling</hi> of his <hi>Ministerie</hi> and his <hi>Courſe</hi> toge<g ref="char:EOLhyphen"/>ther, <hi>Acts</hi> 20. 24: and <hi>Reu.</hi> 11. 7. the two wit<g ref="char:EOLhyphen"/>neſſes finiſhed their liues and their teſtimo<g ref="char:EOLhyphen"/>nies together. Herein many faile and come ſhort of <hi>fulfilling</hi> their Miniſterie, being too too like that <hi>Hetrurian</hi> Idoll, who whileſt he was in the woods in a mean country faſhion,</p>
+               <q>Crebra dedit quondam populo reſponſa petenti;</q>
+               <p>But when once the people, out of their loue and affection to their Idoll, built him a marble Temple and placed him there,</p>
+               <q>Illico diuitijs obmutuit ille repertis. <note place="margin">Vrbanus ſeruus ſeruorum Dei. Monacho fernen<g ref="char:EOLhyphen"/>t<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſsimo, Abbati calido, epiſcopo lepido, Archie<g ref="char:EOLhyphen"/>piſcopo remiſſo. Wrote Pope Vita<g ref="char:cmbAbbrStroke">̄</g> to Baldwine ſometime Archbi<g ref="char:EOLhyphen"/>ſhop of Canterbu<g ref="char:EOLhyphen"/>rie. ex Vſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ie. de Chriſt. eccleſ.</note>
+               </q>
+               <p>His preferments made him purſie, and he had now done giuing Oracles. How many in their firſt beginnings are wondrous pain<g ref="char:EOLhyphen"/>full and induſtrious, and deſerue wel &amp; wor<g ref="char:EOLhyphen"/>thily of the Church of God; but as yeares, and preferments come vpon them, ſlacke and abate their former diligence, and ſeem both <hi>to ſay</hi> as thoſe, <hi>Zach.</hi> 11. 5. <hi>Bleſſed be God, for I am rich;</hi> as if therefore they may be idle, becauſe they are rich; and that which is
+<pb n="30" facs="tcp:202:17"/> worſe <hi>to do</hi> with them: <hi>And their owne ſhep<g ref="char:EOLhyphen"/>heards pitie them not,</hi> and ſo caſt a ſuſpicion vpon themſelues, that they made the ſtaires into the Pulpit, to be but ſteps vnto prefer<g ref="char:EOLhyphen"/>ment.</p>
+               <p>But what is the iſſue? Let Experience be witneſſe. How many whom God hath <hi>filled</hi> with the gifts of knowledge and vtterance are againe emptied and depriued of them, becauſe they haue not made conſcience in the vſe of them, to fulfill their Miniſterie? <hi>Zach.</hi> 11. 17, we ſhall finde a terrible threat<g ref="char:EOLhyphen"/>ning. <hi>His arme ſhall be cleane dryed vp, and his right eie vtterly darkned:</hi> Againſt whom may this threatning be? <hi>O Idoll ſhepheard that lea<g ref="char:EOLhyphen"/>ueth his flocke!</hi> whether it be in regard of pre<g ref="char:EOLhyphen"/>ſence, or paines. When men will be <hi>Idoll ſhepheards,</hi> hauing gifts and <hi>mouthes and ſpeake not,</hi> God in his iuſtice will make them fur<g ref="char:EOLhyphen"/>ther Idoll like, <hi>they ſhall haue eyes and ſee not:</hi> God will dimme and darken their right eye, yea put it out, and depriue them of that ex<g ref="char:EOLhyphen"/>cellent gift of Knowledge, which they haue not cared to imploy in the Churches ſer<g ref="char:EOLhyphen"/>uice.</p>
+               <pb n="31" facs="tcp:202:17"/>
+               <p> 
+                  <hi>Pſal.</hi> 137. 5. 6. <hi>If I forget Ieruſalem, let my right band forget her cunning, yea let my tongue cleaue to the roofe of my mouth, if I preferre not thee to my chiefest ioy.</hi> What may be the rea<g ref="char:EOLhyphen"/>ſon that many a mans <hi>right hand</hi> hath forgot her cunning? Becauſe his <hi>arme</hi> is cleane dri<g ref="char:EOLhyphen"/>ed vp: But why is his arme ſo dried vp, as that his hand hath forgot her cunning? Sure<g ref="char:EOLhyphen"/>ly the Idoll ſhepheard hath <hi>forgotten Ieruſa<g ref="char:EOLhyphen"/>lem.</hi> Therefore it is that his <hi>tongue cleaues</hi> to the roofe of his mouth, becauſe <hi>his heart clea<g ref="char:EOLhyphen"/>ueth</hi> to this world: and the bent of it is ſo pitched vpon the proſecution of ſecular things, the preferments of the world, that <hi>Ieruſalem</hi> is not <hi>preferred</hi> to his chiefeſt de<g ref="char:EOLhyphen"/>light. Therefore cleaueth his tongue to the roofe of his mouth, not onely in regard of negligence, but of inſufficiencie; God ha<g ref="char:EOLhyphen"/>uing a plague no leſſe for the Idoll ſhep<g ref="char:EOLhyphen"/>heards tongue, then his <hi>arme</hi> and his <hi>eye.</hi>
+               </p>
+               <p>I know indeed there may be a diſpenſati<g ref="char:EOLhyphen"/>on where age and painfulneſſe haue diſabled naturall faculties: and I know that the aged Leuite, whoſe hands begin now to tremble with the often and diligent lifting of the
+<pb n="32" facs="tcp:202:18"/> heauie Axe, hath a permiſſion to diſcharge him the cleauing of the Sacrifices; yet in the ſtrength and vigour of a mans beſt gifts and yeares to giue out, this I know not how to excuſe. I know ſome pleade bodily indiſpo<g ref="char:EOLhyphen"/>ſition and weakeneſſe, but the queſtion is, whether the body or the plea be weakeſt. <hi>Timothy</hi> was ſurely weake, and but a ſickely, tuely man; yet <hi>Paul</hi> that preſcribes him to drinke <hi>a little wine,</hi> for his ſtomacks ſake, and <hi>often infirmities,</hi> yet neuer preſcribed him but <hi>a little preaching.</hi> Nay, though a weakely ſickely man, yet he charges him before the Iudge of quicke and dead, to <hi>preach in ſeaſon and out of ſeaſon:</hi> ſtrange counſell one would thinke for a weake body.</p>
+               <p>I deny not but God will haue <hi>mercie and not ſacrifice,</hi> yet take we heed of pretended diſabilities, and of making our ſelues wea<g ref="char:EOLhyphen"/>ker then God hath made vs. What our bo<g ref="char:EOLhyphen"/>dies will beare without a manifeſt and dan<g ref="char:EOLhyphen"/>gerous iniurie to them, let them beare it in the name of God for the good of many ſoules. Theſe bodies of ours muſt periſh and be conſumed at laſt, when we haue made
+<pb n="33" facs="tcp:202:18"/> the moſt of them we can. In what more ho<g ref="char:EOLhyphen"/>nourable ſeruice can we ſpend them then in the ſeruice of the Church? For a man to ſpend his body in the worke of the Miniſte<g ref="char:EOLhyphen"/>rie, I hold it the next degree of honour to the crowne of Martyrdome. Yea euen the a<g ref="char:EOLhyphen"/>ged Leuite, though his ſhaking hands be diſ<g ref="char:EOLhyphen"/>charged the ſeruice of he Axe, yet muſt not be idle, <hi>Num.</hi> 8. 26. <hi>Attamen ſeruito fratribus</hi> 
+                  <note place="margin">Sic Iunius.</note> 
+                  <hi>ſuis;</hi> to wit, though he cleaue not the ſacrifi<g ref="char:EOLhyphen"/>ces, yet let him counſell, aduiſe, direct and inſtruct the iunior Leuites in the ſeruice of the Tabernacle, and ſo ſtill miniſter to his brethren. And thus is the Miniſterie <hi>fulfil<g ref="char:EOLhyphen"/>led</hi> in the <hi>fidelitie of diſpenſation.</hi>
+               </p>
+               <p>The ſecond point and part followes:</p>
+               <p>The <hi>fulfilling</hi> of the Miniſterie in holy <hi>Conuerſation.</hi> A mans Miniſterie ſtandeth not all in preaching, the life of his Mini<g ref="char:EOLhyphen"/>ſterie is his life. Hee is but halfe a Miniſter that preacheth as hee ſhould; Hee is com<g ref="char:EOLhyphen"/>pleate, and fulfills his Miniſterie, that prea<g ref="char:EOLhyphen"/>ches and liues as he ſhould. Though a man ſhould ſpeake with the <hi>tongue of men and An<g ref="char:EOLhyphen"/>gels,</hi> and yet in the meane time be an <hi>angel of</hi>
+                  <pb n="32" facs="tcp:202:19"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="33" facs="tcp:202:19"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="34" facs="tcp:202:20"/> 
+                  <hi>darkeneſſe,</hi> he is but a <hi>tinckling Cimball,</hi> and a Bell without a Pomegranate. The Scrip<g ref="char:EOLhyphen"/>ture complaines of Idoll ſhepheards. What may an Idoll ſhepheard be? He that is like to Idols. How they are deſcribed, ſee <hi>Pſal.</hi> 115. 5 7. <hi>Mouthes they haue and ſpeake not, feete they haue and walke not.</hi> So then not onely he that hath <hi>a mouth and ſpeakes not,</hi> but he alſo that hath <hi>a foote and walkes not,</hi> is an Idoll ſhep<g ref="char:EOLhyphen"/>heard: not onely the <hi>dumbe,</hi> but alſo the <hi>lame</hi> ſhepheard is Idoll-like. Therefore <hi>Theophy<g ref="char:EOLhyphen"/>lacts</hi> note is witty, <hi>Mat.</hi> 5. 2, Chriſt <hi>opened his mouth &amp; taught</hi> the people. He makes a que<g ref="char:EOLhyphen"/>ſtion, whether the firſt word be not ſuperflu<g ref="char:EOLhyphen"/>ous, or no: for how could Chriſt teach, but he muſt open his mouth? He anſwers, that theſe words were not idle, becauſe Chriſt did ſometimes teach and opened not his mouth, <hi>viz.</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> by his life and miracles; but now he opened his mouth, and taught them by doctrine.</p>
+               <p>This, this is that that gaines credit and re<g ref="char:EOLhyphen"/>gard to our Miniſterie and perſons, euen from our very enemies. For <hi>Mar.</hi> 6. 20. <hi>Herod feared Iohn, knowing that be was an holy and a</hi>
+                  <pb n="35" facs="tcp:202:20"/> 
+                  <hi>iust man:</hi> Not becauſe he was a great man, or learned, or a powerfull preacher, though theſe alſo; but becauſe an <hi>holy and a iust man.</hi> Holineſſe caſts a more dreadfull dazling and ſparkling luſtre then any other accompliſh<g ref="char:EOLhyphen"/>ment whatſoeuer. <hi>Herod</hi> was <hi>greater,</hi> but <hi>Iohn</hi> was <hi>holier;</hi> therefore <hi>Herod</hi> feares <hi>Iohn.</hi>
+               </p>
+               <p>The common complaint is that the Mi<g ref="char:EOLhyphen"/>niſtery is contemptible, &amp; baſely accounted of; I would the complaint were not too true: but may a man be ſo bold as to inquire into the cauſes of it? Among many other, queſti<g ref="char:EOLhyphen"/>onleſſe, this is none of the leaſt, the <hi>vnholy</hi> &amp; <hi>ſcandalous</hi> liues of ſome in the Miniſterie, fro<g ref="char:cmbAbbrStroke">̄</g> whoſe perſonall ſcandalls the iniudicious multitude concludes the calling it ſelfe baſe. The Prophet <hi>Malachi</hi> points at this, <hi>Mal.</hi> 2. 8. 9. <hi>Therfore I haue made you baſe and contemptible before all the people.</hi> Wherefore<g ref="char:punc">▪</g> ſee verſe 8. <hi>Ye are gone out of the way, yee haue cauſed many to fall by the Law, yee haue broken the couenant of Leut:</hi> which conenant ſee what it was, <hi>ve.</hi> 5. 6. for this cauſe God made them baſe and con<g ref="char:EOLhyphen"/>temptible. <hi>Let no man deſpiſe thy youth,</hi> 1. <hi>Tim.</hi> 4. 12. He ſayes not only to the <hi>Corinthians</hi> of <hi>Ti<g ref="char:EOLhyphen"/>motheus,</hi>
+                  <pb n="36" facs="tcp:202:21"/> 
+                  <hi>Let no man therefore deſpiſe him,</hi> 1. <hi>Cor.</hi> 16 11. but to <hi>Timotheus</hi> himſelfe, <hi>Let no man deſpiſe</hi> thee. Why? lies our credit in our owne keeping? is it in our power to keep our ſelues from contempt? From iuſt co<g ref="char:cmbAbbrStroke">̄</g>tempt it is, elſe ſhould <hi>Paul</hi> haue ſaid, <hi>Let none of the people de<g ref="char:EOLhyphen"/>ſpiſe Timothies youth,</hi> and not haue giuen this counſell to <hi>Timothie.</hi> But how muſt hee pre<g ref="char:EOLhyphen"/>ſerue him ſelfe from contempt, but <hi>be an ex<g ref="char:EOLhyphen"/>ample to all that beleeue, in word, in conuerſation, in loue, in ſpirit, in faith, in pureneſſe?</hi> Becauſe theſe holy endowments are wa<g ref="char:cmbAbbrStroke">̄</g>ting, hence is it that the Miniſtery is ſo contemptible. The more ſhame for ſuch, and the greater iudge<g ref="char:EOLhyphen"/>ment will it be to ſuch, who by their vnholy liues bring this contempt vpon this calling, and cauſe the dirt and filth of their vicious courſes to be caſt in the faces of all. May I not taxe, and take vp a number of diſſolute ones in the Miniſterie, as <hi>Apollonius</hi> girds vp the falſe prophet of the <hi>Montanists, Propheta,</hi> 
+                  <note place="margin">
+                     <hi>Euſeb.</hi> 5. <hi>eccl. hiſ.</hi>
+                  </note> 
+                  <hi>dic quaeſo, ludit teſſeris, ac tabulis? Propheta foe<g ref="char:EOLhyphen"/>neratur?</hi> I may adde many ſuch interrogato<g ref="char:EOLhyphen"/>ries, as, <hi>Propheta ſaltat? iurat? bibit? ſcortatur?</hi>
+               </p>
+               <pb n="37" facs="tcp:202:21"/>
+               <p> I ſhould almoſt ſhame to engliſh theſe things, but that theſe fellowes are not aſha<g ref="char:EOLhyphen"/>med of their courſes. What? Prophets, and gameſters? Prophets, and dicers, dauncers, drunkards, ſwearers &amp;c. Are theſe our Pro<g ref="char:EOLhyphen"/>pheticall endowments? Haue wee not the ſpawne of that curſed crue, <hi>Eſay</hi> 56. 11. 12, yet liuing amongſt vs, who in ſtead of ſaying, <hi>Come let vs fulfill our Miniſtery,</hi> they ſay, <hi>Come, I will bring wine, and we will fill our ſelues with ſtrong drinke.</hi> If <hi>filling</hi> of pots, <hi>filling</hi> of cups and Tabacco pipes, if <hi>filling</hi> their bellies; if this were to fulfill the Miniſterie, oh how iollily had theſe diſcharged their taskes? Theſe be thoſe bruits that come within com<g ref="char:EOLhyphen"/>paſſe of <hi>Nehemiah</hi> his <hi>Memento, Nehem.</hi> 13. 29 <hi>Remember them (O Lord) which defile the prieſt<g ref="char:EOLhyphen"/>hood:</hi> Yes, yes, God will remember them, though they forget him, yet he will not for<g ref="char:EOLhyphen"/>get them. God of all things will not brooke the defilement of the prieſthood. <hi>Num.</hi> 12. 1, we ſhall find <hi>Aaron</hi> and <hi>Miriam</hi> both in the ſame ſin of murmuring againſt <hi>Moſes,</hi> &amp; yet in the proceſſe of the ſtory, <hi>verſe</hi> 10, only <hi>Mi<g ref="char:EOLhyphen"/>riam</hi>
+                  <pb n="38" facs="tcp:202:22"/> is ſmitten with the leproſy. Both were in the ſame ſin: what was the reaſon onely <hi>Mi<g ref="char:EOLhyphen"/>riam</hi> is in the puniſhment? Is God partiall? God forbid. What the<g ref="char:cmbAbbrStroke">̄</g> might be the reaſon? Surely me thinks <hi>Chryſostome</hi> giues a paſſing <note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. <hi>Hom.</hi> 3. <hi>ad Coloſſ.</hi>
+                  </note> good one, That <hi>Aaron</hi> was not ſmitten with the leproſie for the <hi>dignity</hi> of the prieſthood, leſt the inflicting of ſuch an vnclean diſeaſe on his perſon, ſhould redound to the diſho<g ref="char:EOLhyphen"/>nor of his <hi>office,</hi> God did forbeare him. God had a reſpect to the holines &amp; honor of the prieſthood. God would not therefore haue his <hi>Prieſt</hi> infected with <hi>Leproſie.</hi> He that was to iudge of <hi>Leproſy</hi> in others, and to ſeparate others for the <hi>Leproſie,</hi> he himſelfe was not to be leprous; and therefore though I find <hi>le<g ref="char:EOLhyphen"/>prous Kings,</hi> yet I finde not a <hi>leprous priest</hi> in all the Scripture.</p>
+               <p>Now then, hath the Lord our God ſuch a tender regard of the credite and honour of the Prieſthood, that for it hee will for<g ref="char:EOLhyphen"/>beare the execution of his iuſtice; and ſhall we be ſo regardleſſe therof as to defile it with the filthier leproſie of a profane, vicious and
+<pb n="39" facs="tcp:202:22"/> ſcandalous life? If <hi>Ambroſe</hi> would not admit one into the Miniſtery, <hi>eò quòd geſtus eum de<g ref="char:EOLhyphen"/>deceret,</hi> becauſe he had but an vncomely ge<g ref="char:EOLhyphen"/>ſture of his body; I make no queſtion, if theſe naſty Lepers had fallen into his hand, but he would haue put the diſcipline of the Leper vpon them in <hi>ſeparating</hi> them from the <hi>Con<g ref="char:EOLhyphen"/>gregation. Lu.</hi> 14. 34. 3<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>Salt is good, but if ſalt hath loſt his ſauour,</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> if it be in<g ref="char:EOLhyphen"/>fatuated or growne fooliſh (a word that ſuits wel with <hi>Zacharies</hi> phraſe, of a <hi>fooliſh ſhep<g ref="char:EOLhyphen"/>heard, Zac.</hi> 11. 15:) but if it haue loſt his ſauor, <hi>wherewithall ſhall it be ſalted? It is neither meete for the land, nor yet for the dunghill,</hi> what then muſt become of it? <hi>Men caſt it out,</hi> ſaith our Sauior. How happy were it for the Church, if that ſalt which hath loſt his ſauour, might alſo loſe his place. <hi>Men caſt it out,</hi> that is, foo<g ref="char:EOLhyphen"/>liſh &amp; vnſauory Miniſters are to be depoſed: So <hi>Hierome</hi> expounds it; and ſo was his ex<g ref="char:EOLhyphen"/>poſition vrged in the councel of <hi>Baſil</hi> againſt Pope <hi>Eugenius</hi> for his depoſition from the Papacie.</p>
+               <p>It is neyther meete for the land, nor yet
+<pb n="40" facs="tcp:202:23"/> for the dunghill, what a ſorrow then ſhould it doe in the Church? Is the Church worſe then a dunghill? Is that fit to be in the Church, which is not fit to be on the dung<g ref="char:EOLhyphen"/>hill? This is to make the Church worſe then a dunghill. Well, howeuer ſuch vnſauourie ones ſhuffle out in the world, and ſcape the puniſhment of vnſauourie ſalt, yet God will be ſure to meete with them one day. Hee hath <hi>gall</hi> and <hi>wormewood</hi> for thoſe <hi>prophets of Ieruſalem, from whom iniquitie is gone forth in<g ref="char:EOLhyphen"/>to all the land, Ierem.</hi> 23. 15. It is but iuſtice, fit that they ſhould be fed with <hi>gall</hi> and <hi>worme<g ref="char:EOLhyphen"/>wood</hi> of Gods vengeance, that haue fedde Gods people with <hi>gall</hi> and <hi>wormwood</hi> of their ſcandalous liues. <hi>Be ye holy</hi> therefore <hi>that do beare the veſſels of the Lord.</hi> The Lord <hi>will be ſanctified in all them that draw neare vnto him.</hi> In no calling draw men ſo neare to God as in the Miniſtery; let our liues haue propor<g ref="char:EOLhyphen"/>tion with our callings.</p>
+            </div>
+            <div type="text">
+               <p>And thus we ſee how we muſt <hi>fulfill our Ministerie,</hi> and what we muſt ayme at there<g ref="char:EOLhyphen"/>in. Not at the <hi>filling</hi> of our barnes, of our bel<g ref="char:EOLhyphen"/>lies,
+<pb n="41" facs="tcp:202:23"/> of our purſes, but at the <hi>fulfilling the office of an Euangelist.</hi> For ſuch then as walke after this rule, and are carefull to <hi>fulfill</hi> their Miniſterie in the former particulars, go ye on in the name of God, and the bleſſing of God be vpon your heads; and howſoeuer ye may haue but little thanke and incou<g ref="char:EOLhyphen"/>ragement from an ingratefull people, yet let the Prophet <hi>Eſaies</hi> comfort be yours, <hi>My worke is with my God, Eſay</hi> 49. 4. To you be it ſpoken, 1. <hi>Pet.</hi> 5. 3. 5, <hi>Feed the flocke which de<g ref="char:EOLhyphen"/>pends vpon you. And when the chiefe ſhepheard ſhall come, ye ſhal receiue an incorruptible crowne of glory.</hi> What though ye haue many a frump and frowne for your fidelitie, and people be croſſe; yet comfort your ſelfe againſt all with the view of this crowne of glory, which the righteous Iudge ſhall giue you at that day. Happy, yea thrice happy then ſhall that ſer<g ref="char:EOLhyphen"/>uant be, that hath ſo diſcharged his paſtorall taske, as that he may heare from Chriſt that comfortable <hi>Euge, Well done, good and faithfull ſeruant;</hi> though in the meane time, and till then, he, and his ouer-great officiouſneſſe,
+<pb n="42" facs="tcp:202:24"/> falſely ſo ſuppoſed, be diſgraced with the worlds <hi>Apage.</hi>
+               </p>
+               <p>And for ſuch as make no conſcience thus to fulfil their Miniſtery, to them I ſay, as once that good Father ſpake to the Councell of <hi>Rhemes, Fratres aliam vobis pronuncio ſynodum:</hi> So I to you, <hi>Fratres aliam vobis pronuncio vi<g ref="char:EOLhyphen"/>ſitationem;</hi> I giue you warning of another, and of another gates <hi>Viſitation,</hi> which the great <hi>Archbiſhop of our ſoules</hi> ſhal hold at the dread<g ref="char:EOLhyphen"/>full day of his appearance. At the which, as <note place="margin">Et ſireddenda eſt <gap reason="illegible" resp="#MURP" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> de <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>is quae <gap reason="illegible" resp="#MURP" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>que geſ<g ref="char:EOLhyphen"/>ſi<gap reason="illegible" resp="#MURP" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> ſuo, <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uid fi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t de <gap reason="illegible" resp="#MURP" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> quae q<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ſque geſsit in corpore <gap reason="illegible" resp="#MURP" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> quod eſt eccleſia!</note> the ſame good man ſpeaks, if we muſt giue an account of thoſe things which we haue done, euery man in his <hi>owne body,</hi> how much more of thoſe things which we haue done in the <hi>body of Chriſt,</hi> which is his Church! Rub vp therefore your ſecure and negligent con<g ref="char:EOLhyphen"/>ſciences with <hi>Iobs</hi> meditation, <hi>Iob</hi> 31. 14. <hi>What then ſhall I doe when God riſeth vp, and when he</hi> viſites, <hi>what ſhall I anſwer him?</hi> God himſelfe will one day come a <hi>viſiting;</hi> Be<g ref="char:EOLhyphen"/>thinke your ſelues what yee will then an<g ref="char:EOLhyphen"/>ſwer. Muſt not hee needes bee <hi>ſpeechleſſe</hi> there that hath beene <hi>dumbe</hi> heere? Alas,
+<pb n="43" facs="tcp:202:24"/> how wilt thou bee able to <hi>ſtand</hi> before his dreadfull Tribunall, that ſhalt be found to <hi>ſtand</hi> idle in his Vineyard? How wilt thou be able to appeare before that glorious and holie God, whoſe holie Prieſthood thou haſt defiled with thy vnholy life? In the feare of God therefore, and in the conſci<g ref="char:EOLhyphen"/>ence of that account which muſt be made, <hi>Take heede to the Ministerie</hi> which ye haue re<g ref="char:EOLhyphen"/>ceiued of the Lord, <hi>that ye fulfill it:</hi> fulfill it in conſcionable <hi>Diſpenſation,</hi> in holy <hi>Conuer<g ref="char:EOLhyphen"/>ſation.</hi>
+               </p>
+               <p n="2">2. The <hi>Caueat</hi> is vrged by a reaſon.</p>
+               <p>
+                  <hi>Which thou haſt receiued of the Lord.</hi> Area<g ref="char:EOLhyphen"/>ſon indeed which may worke vpon any but ſuch as are without all reaſon. VVe receiue our Miniſterie <hi>by</hi> man, but not <hi>of</hi> man<g ref="char:punc">▪</g> man <hi>admits,</hi> but God <hi>fits</hi> to the worke. It is <hi>Gods</hi> worke and not <hi>mans.</hi> And therefore as <hi>Ie<g ref="char:EOLhyphen"/>hoſhaphat,</hi> 2. <hi>Chron.</hi> 19. 6, ſpeakes to the Iud<g ref="char:EOLhyphen"/>ges, <hi>Take heede what ye do, for ye execute the iudgement, not of man, but of the Lord:</hi> So may it be ſaid to Miniſters, Take heede what ye do, Take heede to your Miniſterie to fulfill
+<pb n="44" facs="tcp:202:25"/> it; for ye haue receiued it of God, and not of man. He of whom we haue receiued our Miniſterie, will looke to receiue an account from vs for our Miniſterie. Surely the Mini<g ref="char:EOLhyphen"/>ſterie is an honorable calling, and ſo much this reaſon will imply: It is a calling recei<g ref="char:EOLhyphen"/>ued from God in a more peculiar manner then are others. But as there is a <hi>Dignitie,</hi> ſo there is a <hi>Duty</hi> in it, at which theſe words looke more then at the <hi>Dignitie.</hi> How many looke at the <hi>Dignitie,</hi> and forget the <hi>Duty,</hi> glorying that they haue <hi>receiued their Mini<g ref="char:EOLhyphen"/>ſterie from God,</hi> but neglecting the <hi>fulfilling of it,</hi> and the returning of their glory to the glory of God? To which of the Angells <note place="margin">Chryſoſt.</note> hath God ſaid at any time, I will giue vnto you the Keyes of the kingdome of heauen? This hee hath ſaid vnto his Miniſters, and with our Miniſterie we receiue theſe Keyes from the Lord. Well then may Gods Mi<g ref="char:EOLhyphen"/>niſters haue the name of Angells, that haue a prerogatiue aboue Angells. And ſhall we now that haue receiued ſuch an honourable Miniſterie from God, be idle, careleſſe and
+<pb n="45" facs="tcp:202:25"/> negligent in the fulfilling thereof? God for<g ref="char:EOLhyphen"/>bid. If we had receiued our Miniſterie but of <hi>man,</hi> that ſhould betruſt vs with ſuch a bu<g ref="char:EOLhyphen"/>ſineſſe of weight, would we not be carefull to make good his confidence he had in our fi<g ref="char:EOLhyphen"/>delitie? <hi>God</hi> and not <hi>Man</hi> hath betruſted vs with this office, therefore for <hi>Gods ſake</hi> be in<g ref="char:EOLhyphen"/>treated to be faithful in the fulfilling of your Miniſterie; euen for the <hi>Lords ſake,</hi> of whom you haue receiued your honour, your gifts, your calling; take heed to your Miniſtery that ye fulfill it.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <head>Errata</head>
+            <list>
+               <item>Pag. 2. line 23. reade Aſſembled and called.</item>
+               <item>pag. 13. line 2 for braſen, reade baſer.</item>
+               <item>pag. 16. line 3. reade, grumes of bloud.</item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>
